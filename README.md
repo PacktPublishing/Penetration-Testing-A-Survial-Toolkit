@@ -13,9 +13,9 @@ By Packt
 * Take a look at how your personal data can be stolen by malicious attackers
 * See how developers make mistakes that allow attackers to steal data from phones
 
-Module 1: No code is available
-Module 2: No code is available
-Module 3: Only chapters 8 and 9 have code
+Module 1: No code is available  
+Module 2: No code is available  
+Module 3: Only chapters 8 and 9 have code  
 
 
 
